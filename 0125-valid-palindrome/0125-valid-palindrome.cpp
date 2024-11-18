@@ -8,7 +8,7 @@ public:
             if(isalnum(*i)){
                 continue;
             }
-            else if(*i == ' '){ s.erase(i); i--;}
+            //else if(*i == ' '){ s.erase(i); i--;}
             else{
                 s.erase(i);
                 i--;
