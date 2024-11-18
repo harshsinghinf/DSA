@@ -1,22 +1,21 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        if(s.empty()) return true;
-        transform(s.begin(), s.end(), s.begin(), ::tolower);
-        for(auto i=s.begin();i<s.end();i++){
-            //if(97<=int(*i) && int(*i)<=122){
-            if(isalnum(*i)){
-                continue;
-            }
-            //else if(*i == ' '){ s.erase(i); i--;}
-            else{
-                s.erase(i);
-                i--;
+         int start=0, end=s.length()-1;
+        while(start<end) {
+            if (!isalnum(s[start])) start++;
+            else if (!isalnum(s[end])) end--;
+            else {
+                if (tolower(s[start++])!=tolower(s[end--])) return false;
             }
         }
-        string revs = s;
-        reverse(revs.begin(),revs.end());
-        cout<<revs<<endl<<s<<endl;
-        return (s==revs);
+        return true;    
+    }
+
+    bool isAlphaNumeric(char ch) {
+        auto asciiCode = ch;
+        if((asciiCode>='a' && asciiCode<='z')||(asciiCode>='0' && asciiCode<='9'))
+            return true;
+        return false;
     }
 };
