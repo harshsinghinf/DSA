@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/harshsinghinf/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/harshsinghinf/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshsinghinf/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harshsinghinf/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/harshsinghinf/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshsinghinf/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshsinghinf/DSA/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
 <!---LeetCode Topics End-->
