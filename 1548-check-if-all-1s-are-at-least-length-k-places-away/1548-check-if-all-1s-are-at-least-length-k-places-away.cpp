@@ -5,7 +5,7 @@ public:
         int m=INT_MAX; 
         for(int i=0;i<nums.size();i++){
             if(nums[i]==1){
-                m = min(m,i);
+                m = m<i?m:i;
                 if(m!=i&&k>count) return false;
                 count = 0;
             }
