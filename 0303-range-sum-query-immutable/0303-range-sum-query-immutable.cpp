@@ -6,9 +6,15 @@ public:
     }
     int sumRange(int left, int right) {
         int sum = 0;
-        while(left<=right){
+        int n = right-left+1;
+        while(left<right){
             sum+=nums[left];
+            sum+=nums[right];
             left+=1;
+            right-=1;
+        }
+        if(n%2!=0){
+            sum+=nums[right];
         }
         return sum;
     }
