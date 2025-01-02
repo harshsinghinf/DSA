@@ -1,5 +1,6 @@
 class Solution {
 public:
+    
     int minStoneSum(vector<int>& piles, int k) {
         priority_queue<int> q(piles.begin(),piles.end());
         
@@ -18,3 +19,9 @@ public:
         return sum;
     }
 };
+static const int init = [](){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 0;
+}();
