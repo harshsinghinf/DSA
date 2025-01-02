@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/harshsinghinf/DSA/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/harshsinghinf/DSA/tree/master/0907-koko-eating-bananas) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/harshsinghinf/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/harshsinghinf/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshsinghinf/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/harshsinghinf/DSA/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshsinghinf/DSA/tree/master/0347-top-k-frequent-elements) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/harshsinghinf/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshsinghinf/DSA/tree/master/0011-container-with-most-water) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/harshsinghinf/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/harshsinghinf/DSA/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Simulation
 |  |
