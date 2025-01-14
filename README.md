@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harshsinghinf/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harshsinghinf/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1023-time-based-key-value-store](https://github.com/harshsinghinf/DSA/tree/master/1023-time-based-key-value-store) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshsinghinf/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/harshsinghinf/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshsinghinf/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshsinghinf/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/harshsinghinf/DSA/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Divide and Conquer
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshsinghinf/DSA/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshsinghinf/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
