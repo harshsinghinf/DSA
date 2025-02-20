@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsinghinf/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/harshsinghinf/DSA/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -171,5 +172,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/harshsinghinf/DSA/tree/master/0231-power-of-two) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshsinghinf/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harshsinghinf/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
