@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshsinghinf/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harshsinghinf/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshsinghinf/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshsinghinf/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harshsinghinf/DSA/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshsinghinf/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
