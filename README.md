@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshsinghinf/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/harshsinghinf/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshsinghinf/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/harshsinghinf/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshsinghinf/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/harshsinghinf/DSA/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsinghinf/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/harshsinghinf/DSA/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshsinghinf/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/harshsinghinf/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3492-maximum-containers-on-a-ship](https://github.com/harshsinghinf/DSA/tree/master/3492-maximum-containers-on-a-ship) |
 ## Backtracking
 |  |
