@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harshsinghinf/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harshsinghinf/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/harshsinghinf/DSA/tree/master/0883-car-fleet) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshsinghinf/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshsinghinf/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/harshsinghinf/DSA/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/harshsinghinf/DSA/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/harshsinghinf/DSA/tree/master/0907-koko-eating-bananas) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshsinghinf/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/harshsinghinf/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshsinghinf/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/harshsinghinf/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshsinghinf/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshsinghinf/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/harshsinghinf/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
