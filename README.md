@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshsinghinf/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/harshsinghinf/DSA/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3903-smallest-stable-index-i](https://github.com/harshsinghinf/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshsinghinf/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/harshsinghinf/DSA/tree/master/0303-range-sum-query-immutable) |
+| [3903-smallest-stable-index-i](https://github.com/harshsinghinf/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
