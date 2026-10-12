@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/harshsinghinf/DSA/tree/master/1023-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshsinghinf/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/harshsinghinf/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshsinghinf/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/harshsinghinf/DSA/tree/master/1768-merge-strings-alternately) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshsinghinf/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/harshsinghinf/DSA/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshsinghinf/DSA/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshsinghinf/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/harshsinghinf/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/harshsinghinf/DSA/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Simulation
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/harshsinghinf/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/harshsinghinf/DSA/tree/master/0883-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/harshsinghinf/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshsinghinf/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/harshsinghinf/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -219,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/harshsinghinf/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshsinghinf/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
