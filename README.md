@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/harshsinghinf/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshsinghinf/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3636-check-balanced-string](https://github.com/harshsinghinf/DSA/tree/master/3636-check-balanced-string) |
+| [3838-weighted-word-mapping](https://github.com/harshsinghinf/DSA/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshsinghinf/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/harshsinghinf/DSA/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3838-weighted-word-mapping](https://github.com/harshsinghinf/DSA/tree/master/3838-weighted-word-mapping) |
 | [3903-smallest-stable-index-i](https://github.com/harshsinghinf/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/harshsinghinf/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/harshsinghinf/DSA/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshsinghinf/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/harshsinghinf/DSA/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
