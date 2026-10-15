@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/harshsinghinf/DSA/tree/master/1023-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/harshsinghinf/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshsinghinf/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/harshsinghinf/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/harshsinghinf/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshsinghinf/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/harshsinghinf/DSA/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/harshsinghinf/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/harshsinghinf/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshsinghinf/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3636-check-balanced-string](https://github.com/harshsinghinf/DSA/tree/master/3636-check-balanced-string) |
 | [3838-weighted-word-mapping](https://github.com/harshsinghinf/DSA/tree/master/3838-weighted-word-mapping) |
