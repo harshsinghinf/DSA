@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harshsinghinf/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshsinghinf/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshsinghinf/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/harshsinghinf/DSA/tree/master/0049-group-anagrams) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshsinghinf/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/harshsinghinf/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/harshsinghinf/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/harshsinghinf/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshsinghinf/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshsinghinf/DSA/tree/master/0035-search-insert-position) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/harshsinghinf/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshsinghinf/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshsinghinf/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
