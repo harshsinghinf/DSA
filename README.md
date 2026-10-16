@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshsinghinf/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshsinghinf/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harshsinghinf/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/harshsinghinf/DSA/tree/master/0383-ransom-note) |
 | [1023-time-based-key-value-store](https://github.com/harshsinghinf/DSA/tree/master/1023-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/harshsinghinf/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshsinghinf/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshsinghinf/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/harshsinghinf/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshsinghinf/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/harshsinghinf/DSA/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/harshsinghinf/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/harshsinghinf/DSA/tree/master/1023-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshsinghinf/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshsinghinf/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/harshsinghinf/DSA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/harshsinghinf/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Quickselect
 |  |
