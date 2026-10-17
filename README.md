@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/harshsinghinf/DSA/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/harshsinghinf/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/harshsinghinf/DSA/tree/master/1023-time-based-key-value-store) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshsinghinf/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshsinghinf/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/harshsinghinf/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshsinghinf/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/harshsinghinf/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/harshsinghinf/DSA/tree/master/0883-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/harshsinghinf/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshsinghinf/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshsinghinf/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/harshsinghinf/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
