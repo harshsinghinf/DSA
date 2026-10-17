@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/harshsinghinf/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/harshsinghinf/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/harshsinghinf/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0682-baseball-game](https://github.com/harshsinghinf/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshsinghinf/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/harshsinghinf/DSA/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/harshsinghinf/DSA/tree/master/0883-car-fleet) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/harshsinghinf/DSA/tree/master/0682-baseball-game) |
 | [2698-find-the-array-concatenation-value](https://github.com/harshsinghinf/DSA/tree/master/2698-find-the-array-concatenation-value) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/harshsinghinf/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/harshsinghinf/DSA/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/harshsinghinf/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsinghinf/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshsinghinf/DSA/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/harshsinghinf/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshsinghinf/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/harshsinghinf/DSA/tree/master/0883-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/harshsinghinf/DSA/tree/master/1021-remove-outermost-parentheses) |
