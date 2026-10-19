@@ -1,14 +1,13 @@
-
 class Solution:
-    def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
-        res = [0] * len(temperatures)
-        stack = []
+    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
+        result = [0] * len(temperatures)
+        stack = []  # indices of days with unresolved temperatures
 
         for i, temp in enumerate(temperatures):
-            while stack and stack[-1][0] < temp:
-                _, prev_index = stack.pop()
-                res[prev_index] = i - prev_index
+            while stack and temperatures[stack[-1]] < temp:
+                prev = stack.pop()
+                result[prev] = i - prev
 
-            stack.append((temp, i))
+            stack.append(i)
 
-        return res
+        return result
