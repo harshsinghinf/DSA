@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshsinghinf/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshsinghinf/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/harshsinghinf/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/harshsinghinf/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshsinghinf/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/harshsinghinf/DSA/tree/master/1768-merge-strings-alternately) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshsinghinf/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/harshsinghinf/DSA/tree/master/0883-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/harshsinghinf/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshsinghinf/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/harshsinghinf/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshsinghinf/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/harshsinghinf/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
